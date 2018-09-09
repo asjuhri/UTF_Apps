@@ -1,0 +1,8 @@
+{
+  "name": "UTFams_Apps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f7e4f555"
+}
